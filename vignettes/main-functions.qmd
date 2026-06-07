@@ -22,10 +22,10 @@ library(demr)
 Function 1:
 
 ```{r}
-plot_dem_score_cont(dem_data, continent, level)
+plot_demscore(level)
 ```
 
-This one is for a violin plot very similar to our Shiny output, which would be a violin plot with democracy index as the variable of interest, for a specified continent and desired level of representation.
+This one is for a violin plot very similar to our Shiny output, which would be a violin plot with democracy index as the variable of interest, for a desired level of representation.
 
 Function 2:
 
